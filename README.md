@@ -91,4 +91,13 @@
 <td><img src="pc-catppuccin-mocha-wallpapers/Screenshot 2025-07-20 121516-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/space.png"></td>
 </tr>
+<tr>
+<td><img src="pc-catppuccin-mocha-wallpapers/dragon.jpg"</td>
+<td><img src="pc-catppuccin-mocha-wallpapers/corals-fish-underwater.jpg"</td>
+<td><img src="pc-catppuccin-mocha-wallpapers/cabin-2.jpg"</td>
+<td><img src="pc-catppuccin-mocha-wallpapers/nature-valley-1.jpg"</td>
+</tr>
+<tr>
+<td><img src="pc-catppuccin-mocha-wallpapers/koi.jpg">
+</tr>
 </table>
