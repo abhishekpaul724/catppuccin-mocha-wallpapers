@@ -54,6 +54,13 @@
 <td><img src="mobile-catppuccin-mocha-wallpapers/RDT_20251228_220411672223542708063189-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/wallpaper-enhanced-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/wp11925271.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20251229_204910_419-catppuccin-mocha.png"></td>
+</tr><tr>
+<td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20251229_212356_967-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20251229_212412_375-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/peakpx-catppuccin-mocha.png"></td>
+<td></td>
+</tr>
 </table>
 
 
