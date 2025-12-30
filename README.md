@@ -19,7 +19,7 @@
 <td><img src="mobile-catppuccin-mocha-wallpapers/4bbae8a70a596f6cd7a3baba906cb5c1.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/4c1aef3902093946cfd58689abd44e7a-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/583103761-17865572298499741-3762805240747743141-n-catppuccin-mocha.png"></td>
-<td><img src="mobile-catppuccin-mocha-wallpapers/69eacbd44c0865a620cfc7e2fa3544a3_1-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/5a44fff382837e22733975d69c1289b5-catppuccin-mocha.png"></td>
 </tr><tr>
 <td><img src="mobile-catppuccin-mocha-wallpapers/6fe82646520a1b66111ebcea8e5fd932-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/7094ec7ae0917cab4d487e7a3fd2ad4d-catppuccin-mocha.png"></td>
@@ -59,7 +59,7 @@
 <td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20251229_212356_967-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20251229_212412_375-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/peakpx-catppuccin-mocha.png"></td>
-<td></td>
+<td><td><img src="mobile-catppuccin-mocha-wallpapers/9f5d0234a962368e46ad1bf13d638530-catppuccin-mocha.png"></td></td>
 </tr>
 </table>
 
