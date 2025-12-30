@@ -59,7 +59,7 @@
 <td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20251229_212356_967-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20251229_212412_375-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/peakpx-catppuccin-mocha.png"></td>
-<td><td><img src="mobile-catppuccin-mocha-wallpapers/9f5d0234a962368e46ad1bf13d638530-catppuccin-mocha.png"></td></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/9f5d0234a962368e46ad1bf13d638530-catppuccin-mocha.png"></td>
 </tr>
 </table>
 
