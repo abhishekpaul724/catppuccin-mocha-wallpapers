@@ -2,6 +2,10 @@
 
 > Disclaimer: These wallpapers are sourced from many, many, many sources on the internet. I did not make any of these, although I have *edited* several of them a little bit and use lutgen to convert them from their normal versions to the catppuccin-mocha colour scheme. Zero credit belongs to me in that regard, I'm simply the collector. If you are the artist of one of these wallpapers, please [**contact me**] via raising an issue on this repository, I will happily take the wallpaper down or add credit in this README.
 
+![Wallpapers for Mobile](#mobile-wallpapers)
+
+![Wallpapers for PC](#pc-wallpapers)
+
 # Mobile-Wallpapers
 ### Preview
 <table>
@@ -111,6 +115,7 @@
 <td><img src="pc-catppuccin-mocha-wallpapers/nature-valley-1.jpg"</td>
 </tr>
 <tr>
-<td><img src="pc-catppuccin-mocha-wallpapers/koi.jpg">
+<td><img src="pc-catppuccin-mocha-wallpapers/koi.jpg"></td>
+<td><img src="pc-catppuccin-mocha-wallpapers/nanami-catppuccin-mocha.png"></td>
 </tr>
 </table>
