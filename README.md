@@ -82,6 +82,7 @@
 <td><img src="pc-catppuccin-mocha-wallpapers/2025-10-12 20_37_02-4K VIDEO _ RELAXING STUDIO GHIBLI COMPLETE PIANO MUSIC COLLECTION _ BEAUTIFUL AN-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/2025-10-12 20_40_02-4K VIDEO _ RELAXING STUDIO GHIBLI COMPLETE PIANO MUSIC COLLECTION _ BEAUTIFUL AN-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/2025-10-18 01_36_22-L o n e _ Relaxing Sci Fi Space Music - mpv.net-catppuccin-mocha.png"></td>
+<td><img src="pc-catppuccin-mocha-wallpapers/1330483-catppuccin-mocha.png"></td>
 </tr><tr>
 <td><img src="pc-catppuccin-mocha-wallpapers/2025-10-18 01_39_36-S O A R _ Celestial Sci Fi Space Music - mpv.net-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/2025-10-22 21_30_10-sometimes, we have to let go - YouTube — Mozilla Firefox-catppuccin-mocha.png"></td>
