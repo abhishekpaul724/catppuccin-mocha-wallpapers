@@ -69,6 +69,20 @@
 <tr>
 <td><img src="mobile-catppuccin-mocha-wallpapers/Im4b3e-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/wyNTyf-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/1728177789373_realcugan_Pro_2.0x_noise1_GPU-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/1728747664445 (1)_realcugan_Pro_2.0x_noise0_GPU-catppuccin-mocha.png"></td>
+</tr>
+<tr>
+<td><img src="mobile-catppuccin-mocha-wallpapers/Asclepias_humistrata_-_t3_uewk6y_amoled_droidheat-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/bc4ae04a3cfa611fef471a81a9105433_realcugan_Pro_2.0x_noise0_GPU-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/Black-Panther-1.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/Carnage-1.png"></td>
+</tr>
+<tr>
+<td><img src="mobile-catppuccin-mocha-wallpapers/Iron-Man-1.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/murder-drones-binary-code-purple-and-black-wallpaper-scaled_waifu2x_CUnet_2.0x_noise0_GPU-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/Picsart_24-08-30_18-13-13-112_realcugan_Pro_2.0x_noise0_GPU-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/Spiderman-Quote.png"></td>
 </tr>
 </table>
 
