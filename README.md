@@ -85,8 +85,6 @@
 <td><img src="mobile-catppuccin-mocha-wallpapers/Spiderman-Quote.png"></td>
 </tr>
 <tr>
-<td><img src="mobile-catppuccin-mocha-wallpapers/331282aa5143b5a01fedb5936a42e98f-catppuccin-mocha.png"></td>
-<td><img src="mobile-catppuccin-mocha-wallpapers/RDT_20260101_0408192469296328516644866-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/f1a00f28252f2d856b07901692b45da1-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20260101_211922_550-catppuccin-mocha.png"></td>
 </tr>
