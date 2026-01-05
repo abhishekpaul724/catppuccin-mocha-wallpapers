@@ -87,6 +87,7 @@
 <tr>
 <td><img src="mobile-catppuccin-mocha-wallpapers/f1a00f28252f2d856b07901692b45da1-catppuccin-mocha.png"></td>
 <td><img src="mobile-catppuccin-mocha-wallpapers/IMG_20260101_211922_550-catppuccin-mocha.png"></td>
+<td><img src="mobile-catppuccin-mocha-wallpapers/img2.wallspic.com-earth-anime_art-amoled-red-orange-2160x4800-catppuccin-mocha.png"></td>
 </tr>
 </table>
 
@@ -101,7 +102,7 @@
 <td>Column 4</td>
 </tr>
 <tr>
-<td><img src="pc-catppuccin-mocha-wallpapers/2025-10-12 20_37_02-4K VIDEO _ RELAXING STUDIO GHIBLI COMPLETE PIANO MUSIC COLLECTION _ BEAUTIFUL AN-catppuccin-mocha.png"></td>
+<td><img src="pc-catppuccin-mocha-wallpapers/a_city_skyline_with_a_sunset_behind_it-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/2025-10-12 20_40_02-4K VIDEO _ RELAXING STUDIO GHIBLI COMPLETE PIANO MUSIC COLLECTION _ BEAUTIFUL AN-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/2025-10-18 01_36_22-L o n e _ Relaxing Sci Fi Space Music - mpv.net-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/1330483-catppuccin-mocha.png"></td>
@@ -141,5 +142,10 @@
 <tr>
 <td><img src="pc-catppuccin-mocha-wallpapers/death-note-3-catppuccin-mocha.png"></td>
 <td><img src="pc-catppuccin-mocha-wallpapers/death-note-4-catppuccin-mocha.png"></td>
+<td><img src="pc-catppuccin-mocha-wallpapers/a_flower_on_a_dark_background-catppuccin-mocha.png"></td>
+<td><img src="pc-catppuccin-mocha-wallpapers/a_pattern_of_flowers_and_leaves_01-catppuccin-mocha.png"></td>
+</tr>
+<tr>
+<td><img src="pc-catppuccin-mocha-wallpapers/a_white_light_pole_with_a_jet_trail_in_the_sky-catppuccin-mocha.png"></td>
 </tr>
 </table>
