@@ -75,8 +75,9 @@
 </tr><tr>
 <td><img src='mobile-catppuccin-mocha-wallpapers/RDT_20251228_220411672223542708063189-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/Spiderman-Quote.png'></td>
+<td><img src='mobile-catppuccin-mocha-wallpapers/valery-rabchenyuk-5I_oFqB0n6g-unsplash-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/wallpaper-enhanced-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/wp11925271.png'></td>
 </tr><tr>
+<td><img src='mobile-catppuccin-mocha-wallpapers/wp11925271.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/wyNTyf-catppuccin-mocha.png'></td>
 </table>
