@@ -61,6 +61,11 @@
 <td><img src='mobile-catppuccin-mocha-wallpapers/IMG_20251229_212356_967-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/IMG_20251229_212412_375-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/IMG_20260101_211922_550-catppuccin-mocha.png'></td>
+<td><img src='mobile-catppuccin-mocha-wallpapers/IMG_20260112_173300-01-catppuccin-mocha.png'></td>
+</tr><tr>
+<td><img src='mobile-catppuccin-mocha-wallpapers/IMG_20260112_175243-01-catppuccin-mocha-01.jpeg'></td>
+<td><img src='mobile-catppuccin-mocha-wallpapers/IMG_20260112_175304-01-catppuccin-mocha.png'></td>
+<td><img src='mobile-catppuccin-mocha-wallpapers/IMG_20260112_180005-01-catppuccin-mocha-01-01.jpeg'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/Iron-Man-1.png'></td>
 </tr><tr>
 <td><img src='mobile-catppuccin-mocha-wallpapers/Minimal Batman-catppuccin-mocha.png'></td>

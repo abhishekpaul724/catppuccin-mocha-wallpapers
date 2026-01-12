@@ -41,22 +41,24 @@
 <td><img src='pc-catppuccin-mocha-wallpapers/dyson-sphere-2-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/eren-yeager-5k-5120x2880-10310-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/grue-main-catppuccin-mocha.png'></td>
-<td><img src='pc-catppuccin-mocha-wallpapers/koi.jpg'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/IMG_20260112_173236-01-catppuccin-mocha.png'></td>
 </tr><tr>
+<td><img src='pc-catppuccin-mocha-wallpapers/IMG_20260112_180202-01-catppuccin-mocha-01.jpeg'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/koi.jpg'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/L-Lawliet-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/nanami-catppuccin-mocha.png'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/nature-valley-1.jpg'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-06-14 110205-catppuccin-mocha.png'></td>
-</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-06-14 110958-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-06-15 122554-catppuccin-mocha.png'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-06-16 000024-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-06-22 120735-catppuccin-mocha.png'></td>
-</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-07-20 121133-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-07-20 121516-catppuccin-mocha.png'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/space.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/valery-rabchenyuk-5I_oFqB0n6g-unsplash-catppuccin-mocha.png'></td>
-</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/zac-ong-_q4-ykeXOPE-unsplash-catppuccin-mocha.png'></td>
 </table>
