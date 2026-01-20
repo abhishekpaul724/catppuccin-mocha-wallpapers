@@ -34,7 +34,7 @@
 <td><img src='pc-catppuccin-mocha-wallpapers/death-note-3-catppuccin-mocha.png'></td>
 </tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/death-note-4-catppuccin-mocha.png'></td>
-<td><img src='pc-catppuccin-mocha-wallpapers/diana-parkhouse-5RY9GtjPXZM-unsplash-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/diana-parkhouse-5RY9GtjPXZM-unsplash-catppuccin-mocha-squoosh.jpg'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/dragon.jpg'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/dyson-sphere-1-catppuccin-mocha.png'></td>
 </tr><tr>
@@ -66,11 +66,11 @@
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-07-20 121133-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/Screenshot 2025-07-20 121516-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/space.png'></td>
-<td><img src='pc-catppuccin-mocha-wallpapers/tristan-pineda-v2f2l0MVHdk-unsplash-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/tristan-pineda-v2f2l0MVHdk-unsplash-catppuccin-mocha-squoosh.jpg'></td>
 </tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/valery-rabchenyuk-5I_oFqB0n6g-unsplash-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/wallhaven-nkjxmq_2560x1440-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/wp10450402-akira-anime-wallpapers-catppuccin-mocha.png'></td>
-<td><img src='pc-catppuccin-mocha-wallpapers/zac-ong-_q4-ykeXOPE-unsplash-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/zac-ong-_q4-ykeXOPE-unsplash-catppuccin-mocha-squoosh.jpg'></td>
 </tr><tr>
 </table>
