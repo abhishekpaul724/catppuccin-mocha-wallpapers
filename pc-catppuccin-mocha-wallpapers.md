@@ -21,6 +21,11 @@
 <td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_17_39-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_18_11-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_18_40-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/208649-bridge-in-forest-minimalist-4k-hd-artist-4k-wallpaper-image-catppuccin-mocha.png'></td>
+</tr><tr>
+<td><img src='pc-catppuccin-mocha-wallpapers/263333-minimal-desktop-4k-wallpaper-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/310143-sunset-abstract-minimalist-minimalism-4k-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/465731-beautiful-minimalist-desktop-wallpaper-4k-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/AD-Police.png'></td>
 </tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/astronaut.png'></td>
