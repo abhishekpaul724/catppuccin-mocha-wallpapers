@@ -10,36 +10,36 @@
 <tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/1330483-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/1399801-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/1633039-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/1670066-final-catppuccin-mocha.png'></td>
-<td><img src='pc-catppuccin-mocha-wallpapers/2025-10-18 01_36_22-L o n e _ Relaxing Sci Fi Space Music - mpv.net-catppuccin-mocha.png'></td>
 </tr><tr>
+<td><img src='pc-catppuccin-mocha-wallpapers/2025-10-18 01_36_22-L o n e _ Relaxing Sci Fi Space Music - mpv.net-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/2025-10-18 01_39_36-S O A R _ Celestial Sci Fi Space Music - mpv.net-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/2025-10-22 21_30_10-sometimes, we have to let go - YouTube — Mozilla Firefox-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_13_45-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_15_22-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
-</tr><tr>
-<td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_17_39-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_18_11-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
-<td><img src='pc-catppuccin-mocha-wallpapers/2026-01-25 01_18_40-The Most Beautiful Earth Scenes Captured in 4K HDR (60FPS) _ - YouTube — Mozilla-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/208649-bridge-in-forest-minimalist-4k-hd-artist-4k-wallpaper-image-catppuccin-mocha.png'></td>
-</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/263333-minimal-desktop-4k-wallpaper-catppuccin-mocha.png'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/310143-sunset-abstract-minimalist-minimalism-4k-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/465731-beautiful-minimalist-desktop-wallpaper-4k-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/AD-Police.png'></td>
-</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/astronaut.png'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/attack-on-titan-3840x2160-21064-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/a_city_skyline_with_a_sunset_behind_it-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/a_flower_on_a_dark_background-catppuccin-mocha.png'></td>
-</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/a_pattern_of_flowers_and_leaves_01-catppuccin-mocha.png'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/a_white_light_pole_with_a_jet_trail_in_the_sky-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/cabin-2.jpg'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/Cloudy_Quasar_1-Catppuccin_Mocha.png'></td>
-</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/corals-fish-underwater.jpg'></td>
+</tr><tr>
 <td><img src='pc-catppuccin-mocha-wallpapers/cyberpunk-2077-3840x2160-13567-catppuccin-mocha.png'></td>
+<td><img src='pc-catppuccin-mocha-wallpapers/darth-vader-red-saber-star-wars-wallpaper-4k-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/death-note-1-catppuccin-mocha.png'></td>
 <td><img src='pc-catppuccin-mocha-wallpapers/death-note-2-catppuccin-mocha.png'></td>
 </tr><tr>
