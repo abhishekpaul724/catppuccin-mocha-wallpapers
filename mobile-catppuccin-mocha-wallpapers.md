@@ -110,49 +110,40 @@
 </tr><tr>
 <td><img src='mobile-catppuccin-mocha-wallpapers/mobile-moon-night-1.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/murder-drones-binary-code-purple-and-black-wallpaper-scaled_waifu2x_CUnet_2.0x_noise0_GPU-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153338-catppuccin-mocha - Copy.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153338-catppuccin-mocha.png'></td>
-</tr><tr>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153800-catppuccin-mocha - Copy.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153800-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153844-catppuccin-mocha - Copy.png'></td>
+</tr><tr>
 <td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153844-catppuccin-mocha.png'></td>
-</tr><tr>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153917 (1)-catppuccin-mocha - Copy.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153917 (1)-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153934-catppuccin-mocha - Copy.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_153934-catppuccin-mocha.png'></td>
-</tr><tr>
 <td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154032-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154141-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154250-catppuccin-mocha - Copy.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154250-catppuccin-mocha.png'></td>
 </tr><tr>
-<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154257-catppuccin-mocha - Copy.png'></td>
+<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154141-catppuccin-mocha.png'></td>
+<td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154250-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/MVIMG_20260205_154257-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/odx1ht1mj59g1-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/Picsart_24-08-30_18-13-13-112_realcugan_Pro_2.0x_noise0_GPU-catppuccin-mocha.png'></td>
 </tr><tr>
+<td><img src='mobile-catppuccin-mocha-wallpapers/Picsart_24-08-30_18-13-13-112_realcugan_Pro_2.0x_noise0_GPU-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/pokemon-3d-pokeballs-dark-wallpaper-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/random-4k-wallpapers-v0-5pafbnl0uc6g1-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/RDT_20251228_2204003258236871539151932-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/RDT_20251228_220411672223542708063189-catppuccin-mocha.png'></td>
 </tr><tr>
+<td><img src='mobile-catppuccin-mocha-wallpapers/RDT_20251228_220411672223542708063189-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/RDT_20260125_1016276296434443008825964-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/ryuk-death-note-silhouette-wallpaper-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/shadowed-batman-under-the-moon-time-zone-wallpaper-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/spiderman-miles-morales-peter-parker-matching-wallpaper-2-catppuccin-mocha.png'></td>
 </tr><tr>
+<td><img src='mobile-catppuccin-mocha-wallpapers/spiderman-miles-morales-peter-parker-matching-wallpaper-2-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/spiderman-miles-morales-peter-parker-matching-wallpaper-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/Spiderman-Quote.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/try-these-wallpapers-v0-wl06wuxfm5dg1-catppuccin-mocha.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/underwater-corals-fishes-wallpaper-catppuccin-mocha.png'></td>
 </tr><tr>
+<td><img src='mobile-catppuccin-mocha-wallpapers/underwater-corals-fishes-wallpaper-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/valery-rabchenyuk-5I_oFqB0n6g-unsplash-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/wallpaper-enhanced-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/wp11925271.png'></td>
-<td><img src='mobile-catppuccin-mocha-wallpapers/wp14845914-urban-phone-wallpapers-01-catppuccin-mocha.png'></td>
 </tr><tr>
+<td><img src='mobile-catppuccin-mocha-wallpapers/wp14845914-urban-phone-wallpapers-01-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/wyNTyf-catppuccin-mocha.png'></td>
 <td><img src='mobile-catppuccin-mocha-wallpapers/zac-ong-_q4-ykeXOPE-unsplash-catppuccin-mocha.png'></td>
 </table>
